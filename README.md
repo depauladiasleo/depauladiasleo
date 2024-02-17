@@ -20,4 +20,4 @@ Hoje, divido minhas horas de trabalho como preparador de textos e analista de da
 ⚡Trivia: sou músico nas horas vagas e amo poder falar sobre essa paixão.
 ⚡Ah e também: tenho tentado correr um pouco, para ter fôlego para esta vida corrida!
 
-Até já!
+**Até já!**
