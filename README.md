@@ -7,11 +7,11 @@ Hoje, divido minhas horas de trabalho como preparador de textos e analista de da
 
 ✨✨ Alguns projetos que você encontrará aqui:
 
-  Visualização de dados;
-  Projetos acadêmicos;
-  Projetos pessoais;
-  Relatos de estudos em linguagens voltadas à análise de dados;
-  Contribuições para desafios semanais da comunidade.
+  * Visualização de dados;
+  * Projetos acadêmicos;
+  * Projetos pessoais;
+  * Relatos de estudos em linguagens voltadas à análise de dados;
+  * Contribuições para desafios semanais da comunidade.
 
 👯👯 Adoraria colaborar em projetos relacionados a política, relações internacionais, paz e outros temas econômicos e sociais.
 
