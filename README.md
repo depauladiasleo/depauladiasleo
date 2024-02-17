@@ -1,6 +1,7 @@
 # Olá! Tudo bem? 👋
 
-Eu sou o Leonardo, um analista de Relações Internacionais interessado em estatística, análise e comunicação de dados. Hoje divido minhas horas de trabalho como preparador de textos e analista de dados.
+Eu sou o Leonardo, um analista de Relações Internacionais interessado em estatística, análise e comunicação de dados. 
+Hoje, divido minhas horas de trabalho como preparador de textos e analista de dados.
 
 🌱🌱 Os projetos deste perfil se concentram em scripts de R, mas também estudo e trabalho com Python.
 
@@ -20,4 +21,3 @@ Eu sou o Leonardo, um analista de Relações Internacionais interessado em estat
 ⚡Ah e também: tenho tentado correr um pouco, para ter fôlego para esta vida corrida!
 
 Até já!
-
