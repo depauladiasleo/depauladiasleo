@@ -18,6 +18,7 @@ Hoje, divido minhas horas de trabalho como preparador de textos e analista de da
 📫📫 Você pode também me encontrar no [X](https://twitter.com/depauladiasleo), no [LinkedIN](https://www.linkedin.com/in/leonardo-dias-de-paula/) e no [Instagram](https://www.instagram.com/diasderevisao/)! 
 
 ⚡Trivia: sou músico nas horas vagas e amo poder falar sobre essa paixão.
+
 ⚡Ah e também: tenho tentado correr um pouco, para ter fôlego para esta vida corrida!
 
 **Até já!**
